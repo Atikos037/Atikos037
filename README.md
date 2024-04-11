@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atakan Kömür</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning **HTML/CSS AND PHP**
+- 🌱 I’m currently learning **SQL, Python, Powershell, Windows Server, Linux and Networking**
 
-- 💬 Ask me about **How to curse in Turkish**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **info@atakankomur.nl**
 
